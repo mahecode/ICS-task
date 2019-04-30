@@ -1,0 +1,59 @@
+Hi Mahesh,
+
+Great talking to you today, and learning more about you.
+
+As discussed, there are 2 tasks. You can choose to complete any one of them and send it across. It has to be built using the MERN stack .
+
+
+Task 1:
+
+We would require you to build a simple student-alumni scheduling website, with the below functionalities.
+
+1) There are 3 users who can access the website - student1, student2 and alumni. The login functionality for the all the three should be integrated
+2) Student1 & Student2 can book free time slots of the Alumni. The Alumni’s free time slots are 1 pm - 2 pm , 4 pm - 5 pm and 6 pm to 7 pm across all 7 days of the week. Students can maximum book a time slot only 1 week in advance.
+3) Once a student books a particular time slot, the alumni should confirm his availability once he logins. Till the alumni confirms, neither of the students can book another slot. The alumni view should be displayed in the form of a table with the columns as - Student Name, date, timeslot - and an option to select or reject.
+4) Once the alumni confirms, both the students can continue to book other slots
+5) The maximum number of slots a student can book is 2.
+
+UI is not important - simple button, text fields should be enough.
+
+---------
+
+Task 2:
+
+We would need your to build an User Interface with a column creation module, table entry module and table view module
+
+
+Column Creation Module
+
+1) This would be a form with 2 fields - (i) column name and (ii) column type
+2) The column name will be a text entry field and the column type will be dropdown with 3 values - date, number and multiselect
+3) If the user selects multiselect, there will be another text box that appears, where the user can enter the list of values that appears in the multiselect separated by comma’s - E.g. chennai, delhi, mumbai
+4) The user can create multiple columns and click on submit
+
+Table entry module
+
+1) The columns created above will be displayed in a table interace with the column names above as headers
+2) There will be 20 default rows to enter the values for the table(navigation has to be set between the cells, on pressing of the right arrow move towards the next cell and so on)
+3) The validations for column will depend on the column type - E.g. date column, we can only pick date, number column only enter number and multiselect - can select only from the the list of values mentioned
+4) The user can fill multiple rows and then click on submit
+
+Table View module
+
+The submitted rows above should be viewed in a datatable.
+Any new rows added above will be appended to this table
+
+
+-------
+
+Once you are done, do host it on a free hosting platform - like heroku, and also do send me the code.
+
+We shall have a call post that.
+
+Look forward to receiving the submission.
+
+Do give a call at +91-8454856481 anytime in case of any clarifications
+
+Regards,
+Swaroop
+www.codemycompany.com
